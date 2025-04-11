@@ -1,12 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
+ body {
     height: 100vh;
-    background-color: #4b0082;
+    background-color: #efebf3;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,11 +9,11 @@
   }
   
   .card {
-    background-color: #2e004f;
+    background-color: #c708ad;
     padding: 35px;
     text-align: center;
     width: 320px;
-    box-shadow: 0 0 25px rgba(138, 43, 226, 0.5);
+    box-shadow: 0 0 25px rgba(170, 4, 162, 0.5);
     transition: transform 0.3s ease;
   }
   
@@ -35,12 +29,12 @@
   .card h2 {
     margin-bottom: 10px;
     font-size: 26px;
-    color: #ffffff;
+    color: #3b0017;
   }
   
   .card p {
     font-size: 15px;
-    color: #ddd;
+    color: #350322;
     margin-bottom: 25px;
   }
   
@@ -49,7 +43,7 @@
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
-    color: #b700ff;
+    color: #ebe5e8;
     transition: 0.3s ease;
   }
   
